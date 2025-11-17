@@ -1,6 +1,6 @@
 # ✨ Full Stack Realtime Communication platform ✨
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+![Demo App]()
 
 Highlights:
 
